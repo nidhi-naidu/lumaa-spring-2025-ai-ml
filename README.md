@@ -1,3 +1,6 @@
+Name: Nidhi Naidu
+Email: nidhi.naidu@gwu.edu
+
 # Content-Based Movie Recommendation System
 
 ## Overview
