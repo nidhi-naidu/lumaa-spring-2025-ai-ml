@@ -56,7 +56,7 @@ Top 5 movie recommendations based on your preference ('I like action movies set 
 - `README.md` : Project documentation
 
 ## Demo Video
-[Insert Video Demo Link Here]
+[https://www.loom.com/share/2ae742f29dee40b99fadd81eb05746e2?sid=ffe2c932-4875-4cc3-9a2e-e71e7e6f6d1c]
 
 ## License
 This project is open-source under the MIT License.
